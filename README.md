@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marat</h1>
 <h3 align="center">Studying in KFU university</h3>
 
-- 🔭 I’m currently working on [Chess](https://github.com/saitovmarat/Chess) and [TaskManager](https://github.com/saitovmarat/TaskManager)
+- 🔭 I’m currently working on [Chess](https://github.com/saitovmarat/Chess)
 
 - 🌱 I’m currently learning **C++ and C#**
 
