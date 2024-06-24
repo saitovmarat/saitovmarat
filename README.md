@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marat</h1>
 <h3 align="center">Studying in Kazan Federal University</h3>
 
-- 🔭 I’m currently working on [Messenger](https://github.com/saitovmarat/Messenger)
+- 🔭 I’m currently working on [Messenger](https://github.com/saitovmarat/Messenger) and [Messenger_Server](https://github.com/saitovmarat/Messenger_Server)
 
 - 🌱 I’m currently learning **C++ and C#**
 
