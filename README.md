@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WebSite for GPT-3](https://github.com/saitovmarat/gpt-3)
 
-- 🌱 I’m currently learning **C++ and C#**
+- 🌱 I’m currently learning **JS/TS**
 
 - 📫 How to reach me https://t.me/maratsaitovv
 
