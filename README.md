@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cookies store Web application](https://github.com/saitovmarat/Cookies)
 
-- 🌱 I’m currently learning **JS/TS**
+- 🌱 I’m currently learning **Frontend Technologies**
 
 - 📫 How to reach me https://t.me/maratsaitovv
 
