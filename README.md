@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Frontend Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saitovmarat?tab=repositories](https://github.com/saitovmarat?tab=repositories)
-
 - 📫 How to reach me **@maratsaitovv**
 
 <p align="left">
