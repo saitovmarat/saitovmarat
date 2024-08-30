@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marat</h1>
 <h3 align="center">Studying in KFU university</h3>
 
-- 🔭 I’m currently working on [Cookies store Web application](https://github.com/saitovmarat/Cookies)
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **Frontend Technologies**
 
