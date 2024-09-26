@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marat</h1>
-<h3 align="center">Studying in KFU university</h3>
+<h3 align="center">Studying in Kazan Federal University</h3>
 
 <!-- - 🔭 I’m currently working on **nothing**
 
