@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marat</h1>
 <h3 align="center">Studying in KFU university</h3>
 
-- 🔭 I’m currently working on **nothing**
+<!-- - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Frontend Technologies**
+- 🌱 I’m currently learning **Frontend Technologies** -->
 
 - 📫 How to reach me **@maratsaitovv**
 
