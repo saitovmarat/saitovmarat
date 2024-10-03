@@ -8,6 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Qt](https://img.shields.io/badge/-Qt-090909?style=for-the-badge&logo=qt&logoColor=41CD52)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![PostgreSQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
