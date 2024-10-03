@@ -12,4 +12,7 @@
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![PostgreSQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-Follow me
+### Follow me
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/maratsaitovv)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/maratsaitovv)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/maratsaitovv?igsh=MTd2ZXpzOGUzdXdhNQ==)
