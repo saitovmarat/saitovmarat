@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **OptimizationMethods**
   
-- 🌱 I’m currently learning **Machine Learning, Frontend**
+- 🌱 I’m currently learning **Machine Learning and Frontend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
