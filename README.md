@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitovmarat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saitovmarat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitovmarat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saitovmarat" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saitovmarat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saitovmarat" /></p>
 
 [comment]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saitovmarat&layout=compact&theme=tokyonight" alt="saitovmarat" /></p>)
