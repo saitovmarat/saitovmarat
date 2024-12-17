@@ -1,7 +1,6 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQyMTM1MTgsIm5iZiI6MTczNDIxMzIxOCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDIxNTMzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2YzhhYmVhMWQ2NTZhOWI4YzUzZDNmYWM1YTRhMmM3ODRmNzUyN2U0MGY3M2E3ZDg0NTNlMWY4Nzg4ODkwYWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6rPYi2lFY-Lv0XWmzMQeEy8hWYpkxuIdLp8W039mRH0)
 <h1 align="center">Hi 👋, I'm Marat Saitov</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitovmarat&label=Profile%20views&color=0e75b6&style=flat" alt="saitovmarat" /> </p>
