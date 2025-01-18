@@ -1,5 +1,5 @@
 # Hi 👋, I'm Marat Saitov!
-🔭 Working on **[OptimizationMethods](https://github.com/saitovmarat/OptimizationMethods)** and **[NumRecognition](https://github.com/saitovmarat/NumRecognition)** projects <br/>
+🔭 Working on **[OptimizationMethods](https://github.com/saitovmarat/OptimizationMethods)** <br/>
 🌱 Learning **Machine Learning and Frontend** <br/>
 👩🏻‍🎓 Studying applied math in the **Kazan Federal University, Russia** <br/>
 
