@@ -1,6 +1,6 @@
 # Hi 👋, I'm Marat Saitov!
 🔭 Working on **[Stop Sign Detector](https://github.com/saitovmarat/StopSignDetector)** <br/>
-🌱 Learning **Machine Learning and Frontend** <br/>
+🌱 Learning **Machine Learning and C++/Qt** <br/>
 👩🏻‍🎓 Studying applied math in the **Kazan Federal University, Russia** <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=saitovmarat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
