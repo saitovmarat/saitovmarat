@@ -1,5 +1,5 @@
 # Hi 👋, I'm Marat Saitov!
-🔭 Working on **[Camera Filter](https://github.com/saitovmarat/CamFilter)** <br/>
+🔭 Working on **[Stop Sign Detector](https://github.com/saitovmarat/StopSignDetector)** <br/>
 🌱 Learning **Machine Learning and Frontend** <br/>
 👩🏻‍🎓 Studying applied math in the **Kazan Federal University, Russia** <br/>
 
