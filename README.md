@@ -1,5 +1,5 @@
 # Hi 👋, I'm Marat Saitov!
-🔭 Working on **[Stop Sign Detector](https://github.com/saitovmarat/StopSignDetector)** <br/>
+🔭 Working on **[Bridges Detector](https://github.com/saitovmarat/Bridge-Detector)** and **[Neural Network course](https://github.com/saitovmarat/Neural-Networks)**<br/>
 🌱 Learning **Machine Learning and C++/Qt** <br/>
 👩🏻‍🎓 Studying applied math in the **Kazan Federal University, Russia** <br/>
 
