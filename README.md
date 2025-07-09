@@ -1,5 +1,5 @@
 # Hi 👋, I'm Marat Saitov!
-🔭 Working on **[Bridges Detection API]([https://github.com/saitovmarat/Neural-Networks](https://github.com/saitovmarat/bridges_detection_api))**<br/>
+🔭 Working on **[Bridges Detection API](https://github.com/saitovmarat/bridges_detection_api)**<br/>
 🌱 Learning **Machine Learning and C++/Qt** <br/>
 👩🏻‍🎓 Studying applied math in the **Kazan Federal University, Russia** <br/>
 
