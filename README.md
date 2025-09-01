@@ -1,5 +1,5 @@
 # Hi 👋, I'm Marat Saitov!
-🔭 Working on **[Bridge detector API](https://github.com/saitovmarat/bridge-detector-api)** and **[Bridge detector client](https://github.com/saitovmarat/bridge-detector-client)** <br/> 
+<!--🔭 Working on **** <br/>  -->
 🌱 Learning **Machine Learning and C++/Qt** <br/>
 👩🏻‍🎓 Studying applied math in the **Kazan Federal University, Russia** <br/>
 
