@@ -1,7 +1,6 @@
 # Hi 👋, I'm Marat Saitov!
 
-🔬 Working on **CV research** at university laboratory <br/>
-🌱 Learning **CV and ML** <br/>
+🌱 Learning **CV** <br/>
 👩🏻‍🎓 Studying applied math in the **Kazan Federal University, Russia** <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=saitovmarat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
